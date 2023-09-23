@@ -1,1 +1,1 @@
-# numpy
+# numpy implimintation of NN
